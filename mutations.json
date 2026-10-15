@@ -1,0 +1,325 @@
+[
+  {
+    "id": "adrenal_reaction",
+    "name": { "en": "Adrenal Reaction", "es": "Reacción adrenal" },
+    "positive": {
+      "en": "+5% weapon damage per kill (kill streak)",
+      "es": "+5% de daño de arma por cada kill (racha)"
+    },
+    "negative": {
+      "en": "-50 max HP",
+      "es": "-50 de vida máxima"
+    },
+    "serum": { "en": "Adrenal Reaction Serum", "es": "Suero de reacción adrenal" },
+    "notes": {
+      "en": "Very common in bloodied / DPS builds",
+      "es": "Muy usada en builds bloodied / DPS"
+    }
+  },
+  {
+    "id": "bird_bones",
+    "name": { "en": "Bird Bones", "es": "Huesos de pájaro" },
+    "positive": {
+      "en": "+4 Agility, slower and safer falls",
+      "es": "+4 Agilidad, caídas más lentas y seguras"
+    },
+    "negative": {
+      "en": "-4 Strength, +20% limb damage taken",
+      "es": "-4 Fuerza, +20% daño a extremidades recibido"
+    },
+    "serum": { "en": "Bird Bones Serum", "es": "Suero de huesos de pájaro" },
+    "notes": {
+      "en": "Useful for mobility and AP",
+      "es": "Útil para movilidad y PA"
+    }
+  },
+  {
+    "id": "carnivore",
+    "name": { "en": "Carnivore", "es": "Carnívoro" },
+    "positive": {
+      "en": "Meat gives double benefits and no disease",
+      "es": "La carne da el doble de beneficios y no causa enfermedades"
+    },
+    "negative": {
+      "en": "Vegetables provide no benefit",
+      "es": "Los vegetales no dan beneficio"
+    },
+    "serum": { "en": "Carnivore Serum", "es": "Suero carnívoro" },
+    "notes": {
+      "en": "Incompatible with Herbivore",
+      "es": "Incompatible con Herbívoro"
+    }
+  },
+  {
+    "id": "chameleon",
+    "name": { "en": "Chameleon", "es": "Camaleón" },
+    "positive": {
+      "en": "Invisibility while crouched, unarmored and stationary",
+      "es": "Invisibilidad al agacharse, sin armadura y quieto"
+    },
+    "negative": {
+      "en": "Requires unarmored, stationary and not attacking",
+      "es": "Requiere sin armadura, quieto y sin atacar"
+    },
+    "serum": { "en": "Chameleon Serum", "es": "Suero camaleón" },
+    "notes": {
+      "en": "Rarely used in endgame with armor",
+      "es": "Poco usada en endgame con armadura"
+    }
+  },
+  {
+    "id": "eagle_eyes",
+    "name": { "en": "Eagle Eyes", "es": "Ojos de águila" },
+    "positive": {
+      "en": "+25% critical damage, +4 Perception",
+      "es": "+25% daño crítico, +4 Percepción"
+    },
+    "negative": {
+      "en": "-4 Strength",
+      "es": "-4 Fuerza"
+    },
+    "serum": { "en": "Eagle Eyes Serum", "es": "Suero ojos de águila" },
+    "notes": {
+      "en": "Meta in VATS / crit builds",
+      "es": "Meta en builds VATS / críticos"
+    }
+  },
+  {
+    "id": "egg_head",
+    "name": { "en": "Egg Head", "es": "Cabeza de huevo" },
+    "positive": {
+      "en": "+6 Intelligence",
+      "es": "+6 Inteligencia"
+    },
+    "negative": {
+      "en": "-3 Strength, -3 Endurance",
+      "es": "-3 Fuerza, -3 Resistencia"
+    },
+    "serum": { "en": "Egg Head Serum", "es": "Suero cabeza de huevo" },
+    "notes": {
+      "en": "Very common for XP and crafting",
+      "es": "Muy usada para XP y crafting"
+    }
+  },
+  {
+    "id": "electrically_charged",
+    "name": { "en": "Electrically Charged", "es": "Carga eléctrica" },
+    "positive": {
+      "en": "Chance to shock melee attackers",
+      "es": "Probabilidad de electrocutar a atacantes cuerpo a cuerpo"
+    },
+    "negative": {
+      "en": "Shock can also slightly damage you",
+      "es": "El shock también puede dañarte un poco"
+    },
+    "serum": { "en": "Electrically Charged Serum", "es": "Suero de carga eléctrica" },
+    "notes": {
+      "en": "Defensive utility",
+      "es": "Utilidad defensiva"
+    }
+  },
+  {
+    "id": "empath",
+    "name": { "en": "Empath", "es": "Empático" },
+    "positive": {
+      "en": "-25% damage taken by teammates",
+      "es": "-25% de daño recibido por compañeros"
+    },
+    "negative": {
+      "en": "+33% damage taken by you",
+      "es": "+33% de daño recibido por ti"
+    },
+    "serum": { "en": "Empath Serum", "es": "Suero empático" },
+    "notes": {
+      "en": "Team support; Class Freak mitigates the downside",
+      "es": "Soporte de equipo; Class Freak mitiga el negativo"
+    }
+  },
+  {
+    "id": "grounded",
+    "name": { "en": "Grounded", "es": "Conectado a tierra" },
+    "positive": {
+      "en": "+100 Energy Resistance",
+      "es": "+100 resistencia a la energía"
+    },
+    "negative": {
+      "en": "-50% energy weapon damage",
+      "es": "-50% de daño con armas de energía"
+    },
+    "serum": { "en": "Grounded Serum", "es": "Suero conectado a tierra" },
+    "notes": {
+      "en": "Rarely used if you run energy weapons",
+      "es": "Poco usada si usas armas de energía"
+    }
+  },
+  {
+    "id": "healing_factor",
+    "name": { "en": "Healing Factor", "es": "Factor de curación" },
+    "positive": {
+      "en": "+300% health regeneration",
+      "es": "+300% regeneración de vida"
+    },
+    "negative": {
+      "en": "-55% chem effectiveness",
+      "es": "-55% efectividad de chems"
+    },
+    "serum": { "en": "Healing Factor Serum", "es": "Suero factor de curación" },
+    "notes": {
+      "en": "Good survivability; weak with strong stimpaks",
+      "es": "Buena supervivencia; mal con stimpacks fuertes"
+    }
+  },
+  {
+    "id": "herbivore",
+    "name": { "en": "Herbivore", "es": "Herbívoro" },
+    "positive": {
+      "en": "Vegetables give double benefits and no disease",
+      "es": "Los vegetales dan el doble de beneficios y no enfermedades"
+    },
+    "negative": {
+      "en": "Meat provides no benefit",
+      "es": "La carne no da beneficio"
+    },
+    "serum": { "en": "Herbivore Serum", "es": "Suero herbívoro" },
+    "notes": {
+      "en": "Incompatible with Carnivore; meta with plant food",
+      "es": "Incompatible con Carnívoro; meta con comida vegetal"
+    }
+  },
+  {
+    "id": "herd_mentality",
+    "name": { "en": "Herd Mentality", "es": "Mentalidad de rebaño" },
+    "positive": {
+      "en": "+2 to all SPECIAL while grouped",
+      "es": "+2 a todos los SPECIAL en equipo"
+    },
+    "negative": {
+      "en": "-2 to all SPECIAL while solo",
+      "es": "-2 a todos los SPECIAL en solitario"
+    },
+    "serum": { "en": "Herd Mentality Serum", "es": "Suero mentalidad de rebaño" },
+    "notes": {
+      "en": "Almost mandatory in teams; Class Freak helps solo",
+      "es": "Casi obligatoria en equipo; Class Freak ayuda en solo"
+    }
+  },
+  {
+    "id": "marsupial",
+    "name": { "en": "Marsupial", "es": "Marsupial" },
+    "positive": {
+      "en": "+20 carry weight, much higher jump",
+      "es": "+20 de capacidad de carga, salto mucho más alto"
+    },
+    "negative": {
+      "en": "-4 Intelligence",
+      "es": "-4 Inteligencia"
+    },
+    "serum": { "en": "Marsupial Serum", "es": "Suero marsupial" },
+    "notes": {
+      "en": "Nearly universal meta; Class Freak / Egg Head offset INT",
+      "es": "Meta casi universal; Class Freak / Egg Head compensan INT"
+    }
+  },
+  {
+    "id": "plague_walker",
+    "name": { "en": "Plague Walker", "es": "Caminante de la plaga" },
+    "positive": {
+      "en": "Poison aura scaling with active diseases",
+      "es": "Aura de veneno según enfermedades activas"
+    },
+    "negative": {
+      "en": "None direct",
+      "es": "Ninguno directo"
+    },
+    "serum": { "en": "Plague Walker Serum", "es": "Suero caminante de la plaga" },
+    "notes": {
+      "en": "Niche / fun",
+      "es": "Nicho / diversión"
+    }
+  },
+  {
+    "id": "scaly_skin",
+    "name": { "en": "Scaly Skin", "es": "Piel escamosa" },
+    "positive": {
+      "en": "+50 DR and +50 ER",
+      "es": "+50 DR y +50 ER"
+    },
+    "negative": {
+      "en": "-50 AP",
+      "es": "-50 PA"
+    },
+    "serum": { "en": "Scaly Skin Serum", "es": "Suero piel escamosa" },
+    "notes": {
+      "en": "Tank; Class Freak reduces the -AP",
+      "es": "Tank; Class Freak reduce el -PA"
+    }
+  },
+  {
+    "id": "speed_demon",
+    "name": { "en": "Speed Demon", "es": "Demonio de la velocidad" },
+    "positive": {
+      "en": "+20% movement and reload speed",
+      "es": "+20% velocidad de movimiento y de recarga"
+    },
+    "negative": {
+      "en": "Hunger and thirst increase faster",
+      "es": "El hambre y la sed aumentan más rápido"
+    },
+    "serum": { "en": "Speed Demon Serum", "es": "Suero demonio de la velocidad" },
+    "notes": {
+      "en": "Nearly universal meta",
+      "es": "Meta casi universal"
+    }
+  },
+  {
+    "id": "talons",
+    "name": { "en": "Talons", "es": "Garras" },
+    "positive": {
+      "en": "+25% unarmed damage + bleed",
+      "es": "+25% daño desarmado + sangrado"
+    },
+    "negative": {
+      "en": "-4 Agility",
+      "es": "-4 Agilidad"
+    },
+    "serum": { "en": "Talons Serum", "es": "Suero de garras" },
+    "notes": {
+      "en": "Unarmed builds only",
+      "es": "Solo builds desarmado"
+    }
+  },
+  {
+    "id": "twisted_muscles",
+    "name": { "en": "Twisted Muscles", "es": "Músculos retorcidos" },
+    "positive": {
+      "en": "+25% melee damage, higher cripple chance",
+      "es": "+25% daño melee, más probabilidad de cripple"
+    },
+    "negative": {
+      "en": "-50% gun accuracy",
+      "es": "-50% precisión con armas de fuego"
+    },
+    "serum": { "en": "Twisted Muscles Serum", "es": "Suero músculos retorcidos" },
+    "notes": {
+      "en": "Melee only",
+      "es": "Solo melee"
+    }
+  },
+  {
+    "id": "unstable_isotope",
+    "name": { "en": "Unstable Isotope", "es": "Isótopo inestable" },
+    "positive": {
+      "en": "Chance to irradiate/damage melee attackers",
+      "es": "Probabilidad de irradiar/dañar a atacantes melee"
+    },
+    "negative": {
+      "en": "Minor risk to the player",
+      "es": "Riesgo menor para el jugador"
+    },
+    "serum": { "en": "Unstable Isotope Serum", "es": "Suero isótopo inestable" },
+    "notes": {
+      "en": "Defensive utility",
+      "es": "Utilidad defensiva"
+    }
+  }
+]
